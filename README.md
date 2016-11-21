@@ -1,7 +1,7 @@
 ## Dotnet Core
 * Dotnet core application development with entity framework
 
-## Create dotnet core application using command prompt
+## Create dotnet core console application
 * Install dotnet core framework tool in windows machine [link](https://www.microsoft.com/net/core#windowsvs2015).
 * Create dotnet core console aplication using visual studio code [link](https://code.visualstudio.com/docs/runtimes/dotnet).
 
